@@ -1,0 +1,14 @@
+*,
+*::before,
+*::after {
+    font-family: "Roboto";
+    padding: 0;
+    margin: 0;
+    outline: none;
+    list-style-type: none;
+    box-sizing: border-box;
+}
+
+iframe {
+    border-radius: 20px;
+}
